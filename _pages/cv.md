@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Version Control Theory, GitHub University, 2018 (expected)
+* Master in Computer Science, Pontifical Catholic University of Rio de Janeiro (PUC-Rio), 2020
+* Bachelor in Electronic and Computer Engineering, Magna Cum Laude, Federal University of Rio de Janeiro (UFRJ), 2017
 
 Work experience
 ======
