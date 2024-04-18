@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the Technical University of Munich (TUM), advised by [Prof. Maximilian Schiffer](https://www.ot.mgt.tum.de/osm/team/maximilian-schiffer/), and a researcher at the DFG Research Training Group [Advanced Optimization in a Networked Economy (AdONE)](https://www.gs.tum.de/en/adone/start/). Here is my [Curriculum Vitae (CV)](https://bsaraujo.github.io/files/CV - Breno Serrano de Araujo.pdf).
+I am a PhD student at the Technical University of Munich (TUM), advised by [Prof. Maximilian Schiffer](https://www.ot.mgt.tum.de/osm/team/maximilian-schiffer/), and a researcher at the DFG Research Training Group [Advanced Optimization in a Networked Economy (AdONE)](https://www.gs.tum.de/en/adone/start/). Here is my [Curriculum Vitae (CV)](https://bsaraujo.github.io/files/CV-Breno_Serrano_de_Araujo.pdf).
