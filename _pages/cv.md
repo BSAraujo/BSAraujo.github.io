@@ -42,10 +42,12 @@ Talks
   
 Academic Activities
 ======
-* Reviewer for academic journals: 
+* Reviewer for academic journals:
+  * <i>European Journal of Operational Research (EJOR)</i>
   * <i>International Journal of Production Economics (IJPE)</i>
   * <i>Transactions in Operations Research (TOP)</i>
-* Subreviewer for conferences: 
+* Subreviewer for conferences:
+  * <i>Conference  in Emerging Technologies in Transportation Systems (TRC-30)</i>
   * <i>11th Triennial Symposium on Transportation Analysis conference (TRISTAN 2022)</i>
   * <i>2nd Triennial Conference of the INFORMS Transportation and Logistics Society (TSL 2023)</i>
   
