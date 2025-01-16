@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Breno Serrano de Araujo"
 title_separator          : "-"
 name                     : &name "Breno Serrano"
-description              : &description "PhD student at the Technical University of Munich (TUM)."
+description              : &description "Postdoctoral Associate at MIT."
 url                      : https://BSAraujo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BSAraujo/BSAraujo.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Breno Serrano"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at the Technical University of Munich (TUM)"
-  location         : "Munich, Germany"
-  employer         : "Technical University of Munich"
+  bio              : "Postdoctoral Associate at MIT"
+  location         : "Cambridge MA, USA"
+  employer         : "MIT"
   uri              : # URL
-  email            : "breno.serrano@tum.de" 
+  email            : "breno_sa@mit.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
