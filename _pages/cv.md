@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD at the TUM School of Management, Technical University of Munich, 2024 (expected)
+* PhD at the TUM School of Management, Technical University of Munich, 2024 (Summa Cum Laude)
 * Visiting PhD student at the Massachusetts Institute of Technology (MIT), Oct. 2023--Feb. 2024
 * Master in Computer Science, Pontifical Catholic University of Rio de Janeiro (PUC-Rio), 2020
 * Bachelor in Electronic and Computer Engineering, Magna Cum Laude\\
@@ -20,7 +20,9 @@ Federal University of Rio de Janeiro (UFRJ), 2017
 Work experience
 ======
 
-* Since 2020: Research Associate and PhD candidate at the Technical University of Munich, Germany.
+* Since 2025: Postdoctoral Associate at MIT Center for Transportation & Logistics
+
+* 2020--2024: Research Associate and PhD student at the Technical University of Munich, Germany.
 
 * 2018--2020: Research and Development Engineer at TechnipFMC, Rio de Janeiro, Brazil.
 
@@ -43,6 +45,8 @@ Talks
 Academic Activities
 ======
 * Reviewer for academic journals:
+  * <i>Networks</i>
+  * <i>Omega</i>
   * <i>European Journal of Operational Research (EJOR)</i>
   * <i>International Journal of Production Economics (IJPE)</i>
   * <i>Transactions in Operations Research (TOP)</i>
