@@ -20,7 +20,7 @@ Federal University of Rio de Janeiro (UFRJ), 2017
 Work experience
 ======
 
-* Since 2025: Postdoctoral Associate at MIT Center for Transportation & Logistics
+* Since 2025: Postdoctoral Associate at the MIT Center for Transportation & Logistics
 
 * 2020--2024: Research Associate and PhD student at the Technical University of Munich, Germany.
 
